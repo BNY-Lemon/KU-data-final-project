@@ -1,0 +1,158 @@
+description,entry
+Average,Consonant Inventories 3
+Large (7-14),Vowel Quality Inventories 3
+Low,Consonant-Vowel Ratio 1
+In both plosives and fricatives,Voicing in Plosives and Fricatives 4
+None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems 2
+Uvular continuants only,Uvular Consonants 3
+No glottalized consonants,Glottalized Consonants 1
+"/l/, no obstruent laterals",Lateral Consonants 2
+No velar nasal,The Velar Nasal 3
+Contrast present,Vowel Nasalization 1
+High and mid,Front Rounded Vowels 2
+Complex,Syllable Structure 3
+No tones,Tone 1
+No fixed stress,Fixed Stress Locations 1
+Right-edge: Ultimate or penultimate,Weight-Sensitive Stress 3
+Prominence,Weight Factors in Weight-Sensitive Stress Systems 5
+Undetermined,Rhythm Types 4
+All present,Absence of Common Consonants 1
+None,Presence of Uncommon Consonants 1
+Exclusively concatenative,Fusion of Selected Inflectional Formatives 1
+No case,Exponence of Selected Inflectional Formatives 5
+TAM+agreement,Exponence of Tense-Aspect-Mood Inflection 2
+4-5 categories per word,Inflectional Synthesis of the Verb 3
+No marking,Locus of Marking in the Clause 4
+Dependent marking,Locus of Marking in Possessive Noun Phrases 2
+Inconsistent or other,Locus of Marking 5
+Non-zero marking,Zero Marking of A and P Arguments 2
+Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology 2
+No productive reduplication,Reduplication 3
+Core and non-core,Case Syncretism 3
+Syncretic,Syncretism in Verbal Person/Number Marking 2
+Two,Number of Genders 2
+Sex-based,Sex-based and Non-sex-based Gender Systems 2
+Semantic and formal,Systems of Gender Assignment 3
+Plural suffix,Coding of Nominal Plurality 2
+"All nouns, always obligatory",Occurrence of Nominal Plurality 6
+Person-number stem + nominal plural affix,Plurality in Independent Personal Pronouns 6
+No associative plural,The Associative Plural 4
+Definite word distinct from demonstrative,Definite Articles 1
+Indefinite word same as 'one',Indefinite Articles 2
+No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns 3
+No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection 3
+No distance contrast,Distance Contrasts in Demonstratives 1
+Different stem,Pronominal and Adnominal Demonstratives 2
+Related by gender markers,Third Person Pronouns and Demonstratives 5
+3rd person singular only,Gender Distinctions in Independent Personal Pronouns 3
+Binary politeness distinction,Politeness Distinctions in Pronouns 2
+Generic-noun-based,Indefinite Pronouns 2
+Differentiated,Intensifiers and Reflexive Pronouns 2
+No person marking,Person Marking on Adpositions 2
+No morphological case-marking,Number of Cases 1
+No case-marking,Asymmetrical Case-Marking 1
+Prepositional clitics,Position of Case Affixes 7
+Identity,Comitatives and Instrumentals 1
+"First, second, three-th",Ordinal Numerals 7
+No distributive numerals,Distributive Numerals 1
+Absent,Numeral Classifiers 1
+Formally different,Conjunctions and Universal Quantifiers 1
+No possessive affixes,Position of Pronominal Possessive Affixes 4
+Absent,Obligatory Possessive Inflection 2
+None reported,Number of Possessive Nouns 1
+No possessive classification,Possessive Classification 1
+Highly differentiated,"Genitives, Adjectives and Relative Clauses 6"
+Without marking,Adjectives without Nouns 2
+Ergative-Possessive,Action Nominal Constructions 3
+'And' different from 'with',Noun Phrase Conjunction 1
+Identity,Nominal and Verbal Conjunction 1
+Grammatical marking,Perfective/Imperfective Aspect 1
+"Present, no remoteness distinctions",The Past Tense 1
+Inflectional future exists,The Future Tense 1
+From possessive,The Perfect 1
+Tense-aspect suffixes,Position of Tense-Aspect Affixes 2
+Second singular,The Morphological Imperative 2
+Normal imperative + normal negative,The Prohibitive 1
+Neither type of system,Imperative-Hortative Systems 4
+Inflectional optative absent,The Optative 2
+Verbal constructions,Situational Possibility 2
+Verbal constructions,Epistemic Possibility 1
+Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking 1
+Indirect only,Semantic Distinctions of Evidentiality 2
+Modal morpheme,Coding of Evidentiality 5
+Tense and aspect,Suppletion According to Tense and Aspect 3
+None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives 5
+None,Verbal Number and Suppletion 1
+SVO,"Order of Subject, Object and Verb 2"
+SV,Order of Subject and Verb 1
+VO,Order of Object and Verb 2
+VOX,"Order of Object, Oblique, and Verb 1"
+Prepositions,Order of Adposition and Noun Phrase 2
+Noun-Genitive,Order of Genitive and Noun 2
+Noun-Adjective,Order of Adjective and Noun 2
+Demonstrative-Noun,Order of Demonstrative and Noun 1
+Numeral-Noun,Order of Numeral and Noun 1
+Noun-Relative clause,Order of Relative Clause and Noun 1
+Noun-Relative clause (NRel) dominant,Postnominal relative clauses 1
+Degree word-Adjective,Order of Degree Word and Adjective 1
+Initial,Position of Polar Question Particles 1
+Initial interrogative phrase,Position of Interrogative Phrases in Content Questions 1
+Initial subordinator word,Order of Adverbial Subordinator and Clause 1
+VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase 4
+VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun 4
+VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun 4
+Neutral,Alignment of Case Marking of Full Noun Phrases 1
+Nominative - accusative (standard),Alignment of Case Marking of Pronouns 2
+Accusative,Alignment of Verbal Person Marking 2
+Obligatory pronouns in subject position,Expression of Pronominal Subjects 1
+Only the A argument,Verbal Person Marking 2
+No zero realization,Third Person Zero of Verbal Person Marking 2
+A and P do not or do not both occur on the verb,Order of Person Markers on the Verb 1
+Indirect-object construction,Ditransitive Constructions 1
+Mixed,Reciprocal Constructions 3
+Present,Passive Constructions 1
+No antipassive,Antipassive Constructions 3
+no antipassive,Productivity of the Antipassive Construction 4
+No applicative construction,Applicative Constructions 8
+No applicative construction,Other Roles of Applied Objects 5
+Both,Nonperiphrastic Causative Constructions 4
+Negative particle,Negative Morphemes 2
+Symmetric,Symmetric and Asymmetric Standard Negation 1
+Non-assignable,Subtypes of Asymmetric Standard Negation 7
+Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation 3
+Question particle,Polar Questions 1
+Nonverbal encoding,Predicative Adjectives 2
+Identical,Nominal and Locational Predication 2
+Impossible,Zero Copula for Predicate Nominals 1
+Particle,Comparative Constructions 4
+Relative pronoun,Relativization on Subjects 1
+Relative pronoun,Relativization on Obliques 1
+Subject is left implicit,'Want' Complement Subjects 1
+Deranked,Purpose Clauses 3
+Balanced/deranked,'When' Clauses 2
+Balanced/deranked,Reason Clauses 2
+Balanced/deranked,Utterance Complement Clauses 2
+Different,Hand and Arm 2
+Different,Finger and Hand 2
+Decimal,Numeral Bases 1
+6,Number of Non-Derived Basic Colour Categories 7
+11,Number of Basic Colour Categories 7
+Green vs. blue,Green and Blue 1
+Red vs. yellow,Red and Yellow 1
+"M-T pronouns, paradigmatic",M-T Pronouns 2
+m in first person singular,M in First Person Singular 2
+No N-M pronouns,N-M Pronouns 1
+No m in second person singular,M in Second Person Singular 1
+Words derived from Min Nan Chinese te,Tea 2
+OptDoubleNeg,Order of Negative Morpheme and Verb 15
+(Neg)VNeg,Optional Double Negation 2
+NegV,Preverbal Negative Morphemes 1
+VNeg,Postverbal Negative Morphemes 1
+None,Minor morphological means of signaling negation 4
+OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb 19"
+Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb 4
+OptNeg,The Position of Negative Morphemes in SVO Languages 15
+S(Neg)VNegO,Optional Double Negation in SVO languages 3
+No NegSVO,NegSVO Order 4
+Word&OnlyWithAnotherNeg,SNegVO Order 5
+Word&OptDoubleNeg,SVNegO Order 3
