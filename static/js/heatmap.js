@@ -12,11 +12,39 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   accessToken: API_KEY
 }).addTo(myMap);
 
-var myIcon = L.icon({
-  iconUrl: 'marker_icon.png',
-  iconSize: [20, 20],
-  iconAnchor: [0, 0]
-})
+// var myIcon = L.icon({
+//   iconUrl: 'marker_icon.png',
+//   iconSize: [20, 20],
+//   iconAnchor: [0, 0]
+// })
+
+
+
+
+d3.csv("language_list_df.csv", function(language) {
+  
+  let j = 0
+
+  for (var i = 0; i < language.length; i++) {
+    if (language[i].count >= j) {
+      j = language[i].count
+    }
+  }
+
+  for (var i = 0; i < language.length; i++) {
+    console.log(language[i].count)
+    if (language[i].count > j/2) {
+      L.circle([language[i].latitude, language[i].longitude], {
+        fillOpacity: 0.5,
+        color: 'black',
+        fillColor: "green",
+        radius: language[i].count / j * 150000
+      }).bindPopup("<h1>" + language[i].name + "</h1>").addTo(myMap);
+    }
+  }
+  
+
+});
 
 d3.csv("location_list.csv", function(location) {
   
@@ -25,7 +53,7 @@ d3.csv("location_list.csv", function(location) {
   
   for (var i = 0; i < location.length; i++) {
     heatArray.push([location[i].Latitude, location[i].Longitude]);
-    L.marker([location[i].Latitude, location[i].Longitude]).addTo(myMap)
+    // L.marker([location[i].Latitude, location[i].Longitude]).addTo(myMap)
 
   }
 
