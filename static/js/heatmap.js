@@ -58,8 +58,8 @@ d3.csv("location_list.csv", function(location) {
   }
 
   var heat = L.heatLayer(heatArray, {
-    radius: 80,
-    blur: 60
+    radius: 50,
+    blur: 10
   }).addTo(myMap);
 
 })
